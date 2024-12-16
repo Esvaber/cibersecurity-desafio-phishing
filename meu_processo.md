@@ -38,3 +38,16 @@ Dessa vez busquei usar as outras opções que o SETOOLKIT oferece:
 Após selecionar essas opções a página foi exibida corretamente e então tive o primeiro retorno bem-sucedido:
 
 ![template_google](/template_google.png)
+
+## Passo 4
+
+Para conseguir me manter mais fiel à proposta inicial de clonar a página do Facebook, consegui descobrir como contornar isso e confirmei que a Meta usou códigos anti-phishing para impedir o usos de ferramentas como o SETOOLKIT. Dessa maneira os passos dentro do programa seguem:
+
+- Tipo de ataque: ``` Social-Engineering Attacks ```
+- Vetor de ataque: ``` Web Site Attack Vectors ```
+- Método de ataque: ```Credential Harvester Attack Method ```
+- Método de ataque: ``` Custom Template ```
+- Caminho: ``` "caminho do arquivo dentro do Kali ```
+
+# Como criar o arquivo do Facebook
+
