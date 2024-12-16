@@ -9,8 +9,11 @@ Após executar os simples passos expostos no README, mesmo com a conexão aberta
 ![erro](/erro.png)
 
 Ao pesquisar as mensagens para encontrar uma possível solução, mesmo encontrando o problema relatado por outras pessoas, não encontrei nada que pudesse resolver a questão.
+
 Sendo assim tentei descobrir se era algum problema na versão que estava usando. Fiz as atualizações na tela inicial do SETOOLKIT, mas a falta de feedback do programa me deixaram em dúvida se algum tipo de atualização foi realmente efetuada.
+
 Para tentar garantir que estava rodando uma versão mais recente baixei a versão mais atualizada do Kali Linux no site oficial, mas obtive o mesmo retorno anterior.
+
 Como veremos abaixo, **o passo 1 não foi importante para resolvermos o problema.**
 
 ## Passo 2
