@@ -48,6 +48,15 @@ Para conseguir me manter mais fiel à proposta inicial de clonar a página do Fa
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Custom Template ```
 - Caminho: ``` "caminho do arquivo dentro do Kali ```
+- URL: ``` http://www.facebook.com ```
 
-# Como criar o arquivo do Facebook
+***Como criar o arquivo do Facebook***
 
+- Entrar na página www.facebook.com
+- Usar a opção de desenvolvedor do navegador, selecionar o botão de "Entrar" e copiar o ID do botão
+- Copiar o código-fonte da página, criar um arquivo index.html e colar o código copiado
+- Buscar a ID do botão no código-fonte e apagar essa ID
+
+Com essas opções temos uma página do Facebook com qualidade para enganar e que retorna o valores inseridos nos campos de email e senha:
+
+![custom_url](/custom_url.png)
