@@ -14,7 +14,7 @@ Sendo assim tentei descobrir se era algum problema na versão que estava usando.
 
 Para tentar garantir que estava rodando uma versão mais recente baixei a versão mais atualizada do Kali Linux no site oficial, mas obtive o mesmo retorno anterior.
 
-Como veremos abaixo, **o passo 1 não foi importante para resolvermos o problema.**
+Como veremos abaixo, ***o passo 1 não foi importante para resolvermos o problema.***
 
 ## Passo 2
 
